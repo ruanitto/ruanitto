@@ -1,5 +1,7 @@
 ### Fala meus queridos, eu sou o Ruanitto! 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruanitto%2Fhit-counter&count_bg=%231A3B01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visualiza%C3%A7%C3%B5es+de+Persil&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div>
   <a href="https://github.com/ruanitto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanitto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
