@@ -1,13 +1,18 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ruanitto%20&fontAlignY=40&color=gradient)
+
 ### Fala meus queridos, eu sou o Ruanitto! 👋
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruanitto%2Fhit-counter&count_bg=%231A3B01&title_bg=%23555555&icon=hackaday.svg&icon_color=%23E7E7E7&title=Visualiza%C3%A7%C3%B5es+de+Perfil&edge_flat=false)
-
-<div>
+  
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
   <a href="https://github.com/ruanitto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanitto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanitto&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ruanitto&layout=compact&langs_count=20&theme=dark"/>
-</div>
+  </a> 
+</details>
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruanitto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
