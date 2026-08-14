@@ -1,38 +1,48 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ruanitto%20&fontAlignY=40&color=gradient)
+# Olá, eu sou o Rafael Gomes (Ruanitto) 👋
 
-### Fala meus queridos, eu sou o Ruanitto! 👋
+[![Twitter](https://img.shields.io/badge/-@ruanittoalmeida-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ruanittoalmeida)
+[![Site](https://img.shields.io/badge/-madsolutions.com.br-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](http://madsolutions.com.br)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruanitto%2Fhit-counter&count_bg=%231A3B01&title_bg=%23555555&icon=hackaday.svg&icon_color=%23E7E7E7&title=Visualiza%C3%A7%C3%B5es+de+Perfil&edge_flat=false)
-  
-<details close="true">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <a href="https://github.com/ruanitto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanitto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanitto&layout=compact&langs_count=7&theme=dark"/>
-  </a> 
-</details>
+Desenvolvedor **Fullstack** do Brasil 🇧🇷, apaixonado por tecnologia, música e código aberto.
 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ruanitto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ruanitto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ruanitto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ruanitto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ruanitto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ruanitto-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+---
+
+## 🚀 Sobre mim
+
+- 💻 Desenvolvo web há mais de 10 anos: backend (AdonisJS/Node.js, PHP), frontend (Angular, React, React Native) e mobile (Kotlin Multiplatform).
+- 🎸 Criador do **OpenSetList** — app de setlists e cifras para músicos, open source, offline e multiplataforma.
+- 🌱 Atualmente focado em Kotlin Multiplatform + Compose Multiplatform.
+- 🔭 Sempre aberto a colaborações e projetos open source.
+
+## 🏆 Projeto em destaque
+
+### [OpenSetList](https://github.com/OpenSetList/opensetlist-app) ⭐
+Aplicativo de **setlists e cifras (ChordPro)** para músicos — transposição de tom, rolagem automática, pedal Bluetooth, backup e importação de outros apps. 100% offline, sem contas, sem anúncios. **Android, iOS e desktop**, sob licença MIT.
+
+> Quer colaborar? Veja o [repositório](https://github.com/OpenSetList/opensetlist-app) e abra uma Issue ou PR! 💛
+
+## 🛠️ Tecnologias
+
+| Área | Tecnologias |
+|------|-------------|
+| Backend | AdonisJS, Node.js, PHP, MySQL |
+| Frontend | Angular, React, TypeScript |
+| Mobile | React Native, Kotlin Multiplatform, Compose |
+| Outros | Python, Shell, Git, Docker |
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ruanitto&show_icons=true&theme=dark&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanitto&layout=compact&theme=dark" />
 </div>
-<!--
-**ruanitto/ruanitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📫 Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Site: [madsolutions.com.br](http://madsolutions.com.br)
+- 🐦 Twitter: [@ruanittoalmeida](https://twitter.com/ruanittoalmeida)
+- 💼 GitHub: [@ruanitto](https://github.com/ruanitto)
+
+---
+
+<p align="center">
+  <sub>Feito com 💙 e café.</sub>
+</p>
